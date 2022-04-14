@@ -1,0 +1,5 @@
+Bascially Git is a source code management tool, were dev used to push their code/changes into the repository
+tools used for the cloninng the repo are git bash and putty.
+Git Commands:
+git init -> it stands for initilization, by executing this command it is going to create a local repo.
+            local repo has three logical areas, 1.workingArea 2.stagging area 3.local repo 
